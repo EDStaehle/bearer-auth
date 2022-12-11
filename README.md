@@ -10,7 +10,7 @@ Create a bearer auth server to grasp the bearer of authorization
 
 ### Links and Resources
 
--none right now (GitHub Actions)
+- [tests](https://github.com/EDStaehle/bearer-auth/actions) (GitHub Actions)
 - [prod development](postgres://eliasstaehle_user:RXgpZrgEXdvXlVg4FgUeRqZD5NaU2bzL@dpg-ce42fk6n6mpku7k0j3rg-a.ohio-postgres.render.com/eliasstaehle)
 
 ### Setup
